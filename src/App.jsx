@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import "bootstrap/dist/css/bootstrap.min.css" from "./react-bootstrap";
+import "bootstrap/dist/css/bootstrap.min.css" 
 import "./App.css";
 import Card from "./Components/Card";
 
